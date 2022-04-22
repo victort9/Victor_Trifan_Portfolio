@@ -10,7 +10,7 @@ You can access to it [HERE]()
 
 ![]()
 
-# Sales Analysis Project - Excel
+# [Sales Analysis Project - Excel](https://github.com/victort9/Excel_Analysis_Project)
 ## Project overview
 * An electronics store needs to increase its profits
 * A KPI is found that will allow to increase profits at the lowest cost
