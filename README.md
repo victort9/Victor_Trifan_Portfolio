@@ -21,7 +21,7 @@ You can access to it [HERE]()
 
 ![]()
 
-# Bank Personal Loan Analisys - Python
+# [Bank Personal Loan Analisys - Python](https://github.com/victort9/Bank_Loan_Project)
 ## Project overview
 * We need to know which factors influence to give a loan
 * We also need to look for any opportunity to increase the bank's assets
