@@ -1,5 +1,5 @@
 # Victor_Trifan_Portfolio
-# Data Analysis Project - Sales Management
+# [Data Analysis Project - Sales Management](https://github.com/victort9/Data_Analysis_Project)
 ## Project overview
 * This project explores different business metrics and how they can be displayed graphically
 * I explored the relation between sales, budget, customers and products
