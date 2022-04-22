@@ -9,7 +9,7 @@
 You can access to it [HERE](https://github.com/victort9/Data_Analysis_Project)
 
 
-![](https://github.com/victort9/Victor_Trifan_Portfolio/blob/main/Images/Dashboard_Data_analysis.png)
+![](/Images/Dashboard_Data_analysis.png)
 
 
 # [Sales Analysis Project - Excel](https://github.com/victort9/Excel_Analysis_Project)
@@ -22,7 +22,7 @@ You can access to it [HERE](https://github.com/victort9/Data_Analysis_Project)
 You can access to it [HERE](https://github.com/victort9/Excel_Analysis_Project)
 
 
-![](https://github.com/victort9/Victor_Trifan_Portfolio/blob/main/Images/Sales_overview_Excel.png)
+![](/Images/Sales_overview_Excel.png)
 
 
 # [Bank Personal Loan Analisys - Python](https://github.com/victort9/Bank_Loan_Project)
@@ -35,4 +35,4 @@ You can access to it [HERE](https://github.com/victort9/Excel_Analysis_Project)
 You can access to it [HERE](https://github.com/victort9/Bank_Loan_Project)
 
 
-![](https://github.com/victort9/Victor_Trifan_Portfolio/blob/main/Images/Correlation_heatmap.png)
+![](/Images/Correlation_heatmap.png)
